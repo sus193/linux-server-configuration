@@ -10,7 +10,7 @@
 - http://ec2-54-186-93-235.us-west-2.compute.amazonaws.com/
 - http://54.186.93.235/
 
--![](https://bytebucket.org/sus14/linux-server-configuration-bitbucket/raw/854c3a95aaf1416a948db948929d68c2661eb917/project5_submission.png?token=df1699eaa0601b757e26240bb2d1ef0acc10c3e6)
+![](https://bytebucket.org/sus14/linux-server-configuration-bitbucket/raw/854c3a95aaf1416a948db948929d68c2661eb917/project5_submission.png?token=df1699eaa0601b757e26240bb2d1ef0acc10c3e6)
 
 ## Software installed:
 - apache2
